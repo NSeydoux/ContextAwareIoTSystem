@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [5ISS project : Towards context-aware IoT systems]
+description: [Is it possible to infer information about a device's whereabouts based on its connectivity status ? Let's find out !]
 show_downloads: ["true"]
 
