@@ -87,7 +87,7 @@
 
     <!-- https://w3id.org/laas-iot/wlan#Oberved_Signal -->
 
-    <rdf:Description rdf:about="https://w3id.org/laas-iot/wlan#Oberved_Signal">
+    <rdf:Description rdf:about="https://w3id.org/laas-iot/wlan#Observed_Signal">
         <rdfs:subClassOf rdf:resource="http://www.w3.org/ns/sosa/FeatureOfInterest"/>
     </rdf:Description>
 
